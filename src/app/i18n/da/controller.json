@@ -1,0 +1,43 @@
+{
+    "TinyG": {
+        "machineState": {
+            "initializing": "Initialisere",
+            "ready": "Klar",
+            "alarm": "Alarm",
+            "stop": "Program Stop",
+            "end": "Program Slut",
+            "run": "Kør",
+            "hold": "Hold",
+            "probe": "Føler",
+            "cycle": "Cykle",
+            "homing": "Homing",
+            "jog": "Skridt",
+            "interlock": "Aflåsning",
+            "shutdown": "Nedlukning",
+            "panic": "Panik"
+        }
+    },
+    "Grbl": {
+        "activeState": {
+            "idle": "Dvale",
+            "run": "Kør",
+            "hold": "Hold",
+            "door": "Dør",
+            "home": "Hjem",
+            "sleep": "sov",
+            "alarm": "Alarm",
+            "check": "Tjek"
+        }
+    },
+    "Smoothie": {
+        "activeState": {
+            "idle": "Dvale",
+            "run": "Kør",
+            "hold": "Hold",
+            "door": "Dør",
+            "home": "Hjem",
+            "alarm": "Alarm",
+            "check": "Tjek"
+        }
+    }
+}
